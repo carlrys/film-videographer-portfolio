@@ -151,7 +151,7 @@ const Contact = () => {
                 <div className="contact-icon">
                   <Mail size={24} />
                 </div>
-                <span>itscatherinreyes@gmail.com</span>
+                <span>itscatherinereyes@gmail.com</span>
               </a>
             </div>
           </motion.div>
