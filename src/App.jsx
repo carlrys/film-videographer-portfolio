@@ -17,7 +17,7 @@ const projects = [
     coupleNames: "Madysin & Alvin",
     date: "November 2025",
     location: "Pennsylvania",
-    thumbnail: "src/assets/wedding-thumbnail-1.png",
+    thumbnail: "/assets/wedding-thumbnail-1.png",
     videoUrl: "https://drive.google.com/file/d/1NVkIH00JHYHNbTvJlQXJgWta_gyi0lBs/preview",
     category: "Wedding"
   },
@@ -26,7 +26,7 @@ const projects = [
     coupleNames: "Lumad",
     date: "March 2024",
     location: "Cebu",
-    thumbnail: "src/assets/docu-thumbnail.png",
+    thumbnail: "/assets/docu-thumbnail.png",
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
     category: "Documentary"
   },
@@ -35,7 +35,7 @@ const projects = [
     coupleNames: "We Can Be More",
     date: "December 2023",
     location: "Cebu City",
-    thumbnail: "src/assets/mv-thumbnail.png",
+    thumbnail: "/assets/mv-thumbnail.png",
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
     category: "Music Video"
   },
@@ -44,7 +44,7 @@ const projects = [
     coupleNames: "Okay Ra Gihapon",
     date: "October 2023",
     location: "Cebu",
-    thumbnail: "src/assets/shortfilm-thumbnail.png",
+    thumbnail: "/assets/shortfilm-thumbnail.png",
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
     category: "Short Film"
   },
@@ -53,7 +53,7 @@ const projects = [
     coupleNames: "CNU Hymn",
     date: "August 2023",
     location: "Cebu City",
-    thumbnail: "src/assets/school-hymn-thumbnail.png",
+    thumbnail: "/assets/school-hymn-thumbnail.png",
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
     category: "School Hymn"
   },
@@ -62,7 +62,7 @@ const projects = [
     coupleNames: "Megan & Ryan",
     date: "February 2026",
     location: "Pennsylvania",
-    thumbnail: "src/assets/wedding-thumbnail-2.png",
+    thumbnail: "/assets/wedding-thumbnail-2.png",
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
     category: "Wedding"
   }

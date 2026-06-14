@@ -183,7 +183,7 @@ const Hero = ({ scrollToSection }) => {
           animate={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.4, duration: 1 }}
         >
-          <img src="src/assets/hero-image.jpg" alt="Catherine" />
+          <img src="/assets/hero-image.jpg" alt="Catherine" />
         </motion.div>
       </motion.section>
     </>

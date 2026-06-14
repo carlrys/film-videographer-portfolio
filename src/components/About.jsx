@@ -106,8 +106,8 @@ const About = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            <img src="src/assets/movie-poster.jpg" alt="Okay Ra Gihapon poster" />
-            <img src="src/assets/cathy-at-work.jpg" alt="Catherine Anne Reyes at work" />
+            <img src="/assets/movie-poster.jpg" alt="Okay Ra Gihapon poster" />
+            <img src="/assets/cathy-at-work.jpg" alt="Catherine Anne Reyes at work" />
             {/* <div className="stats">
               <div className="stat">
                 <div className="stat-number">150+</div>
