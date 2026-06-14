@@ -27,7 +27,7 @@ const projects = [
     date: "March 2024",
     location: "Cebu",
     thumbnail: "/assets/docu-thumbnail.png",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://drive.google.com/file/d/1mdiLi0hBv1PYjHJAEySCbhWJ6L-DDjgb/preview",
     category: "Documentary"
   },
   {
@@ -36,7 +36,7 @@ const projects = [
     date: "December 2023",
     location: "Cebu City",
     thumbnail: "/assets/mv-thumbnail.png",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://drive.google.com/file/d/1hKPCM-H-ATIxD6ZPdnrh4wiGHU6skSiP/preview",
     category: "Music Video"
   },
   {
@@ -45,7 +45,7 @@ const projects = [
     date: "October 2023",
     location: "Cebu",
     thumbnail: "/assets/shortfilm-thumbnail.png",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://drive.google.com/file/d/16QTE9ejKMuIEe8K8TUuQweZlAVrtMGKx/preview",
     category: "Short Film"
   },
   {
@@ -54,7 +54,7 @@ const projects = [
     date: "August 2023",
     location: "Cebu City",
     thumbnail: "/assets/school-hymn-thumbnail.png",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://drive.google.com/file/d/1yBLgjBXk8NUNmg9J1zfU0Vg4Hfri_420/preview",
     category: "School Hymn"
   },
   {
@@ -63,7 +63,7 @@ const projects = [
     date: "February 2026",
     location: "Pennsylvania",
     thumbnail: "/assets/wedding-thumbnail-2.png",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://drive.google.com/file/d/1Ye_lYi-3jXXnFoBj5sbMCCpf4SO-ft8P/preview",
     category: "Wedding"
   }
 ];
