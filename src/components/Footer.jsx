@@ -18,7 +18,7 @@ const Footer = () => {
       `}</style>
 
       <footer className="footer">
-        <p>© 2024 Sophia Films. All rights reserved. Crafted with love in Cebu.</p>
+        <p>All rights reserved. Crafted with love in Cebu.</p>
       </footer>
     </>
   );

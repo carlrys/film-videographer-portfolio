@@ -110,8 +110,6 @@ function App() {
       />
       <Hero scrollToSection={scrollToSection} />
       <About />
-      <Timeline />
-      <Process />
       <Portfolio projects={projects} setSelectedVideo={setSelectedVideo} />
       <CTA scrollToSection={scrollToSection} />
       <Contact />

@@ -76,6 +76,7 @@ const Contact = () => {
           text-decoration: none;
           font-size: 0.95rem;
           transition: color 0.3s ease;
+          display: contents;
         }
 
         .contact-link:hover {
@@ -136,7 +137,7 @@ const Contact = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            I'd love to hear about your wedding plans. Reach out and let's start the conversation.
+            I'd love to hear about your ideas. Reach out and let's start the conversation.
           </motion.p>
           <motion.div
             className="contact-methods"
@@ -146,15 +147,15 @@ const Contact = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <div className="contact-method">
-              <div className="contact-icon">
-                <Mail size={24} />
-              </div>
-              <a href="mailto:sophia@sophiafilms.com" className="contact-link">
-                sophia@sophiafilms.com
+              <a href="mailto:itscatherinreyes@gmail.com" className="contact-link flex items-center gap-3">
+                <div className="contact-icon">
+                  <Mail size={24} />
+                </div>
+                <span>itscatherinreyes@gmail.com</span>
               </a>
             </div>
           </motion.div>
-          <motion.div
+          {/* <motion.div
             className="social-links"
             initial={{ y: 30, opacity: 0 }}
             whileInView={{ y: 0, opacity: 1 }}
@@ -162,12 +163,12 @@ const Contact = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
           >
             <a href="https://instagram.com" className="social-link" target="_blank" rel="noopener noreferrer">
-              {/* <Instagram size={20} /> */}
+              <Instagram size={20} />
             </a>
             <a href="https://youtube.com" className="social-link" target="_blank" rel="noopener noreferrer">
-              {/* <Youtube size={20} /> */}
+              <Youtube size={20} />
             </a>
-          </motion.div>
+          </motion.div> */}
         </div>
       </section>
     </>

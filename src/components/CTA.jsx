@@ -90,7 +90,7 @@ const CTA = ({ scrollToSection }) => {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            Let's Capture Your Love Story
+            Let's Capture Your Story
           </motion.h2>
           <motion.p
             initial={{ y: 30, opacity: 0 }}
@@ -98,7 +98,7 @@ const CTA = ({ scrollToSection }) => {
             viewport={{ once: true }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            Your wedding day deserves to be remembered in the most beautiful way. Let's create something timeless together.
+            Your special moments deserve to be preserved in the most beautiful way. Let's create something timeless together.
           </motion.p>
           <motion.button
             className="cta-button-white"

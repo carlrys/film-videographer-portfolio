@@ -106,21 +106,22 @@ const About = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            <img src="src/assets/movie-poster.jpg" alt="Catherine at work" />
-            <div className="stats">
+            <img src="src/assets/movie-poster.jpg" alt="Okay Ra Gihapon poster" />
+            <img src="src/assets/cathy-at-work.jpg" alt="Catherine Anne Reyes at work" />
+            {/* <div className="stats">
               <div className="stat">
                 <div className="stat-number">150+</div>
                 <div className="stat-label">Weddings Filmed</div>
               </div>
               <div className="stat">
-                <div className="stat-number">8+</div>
+                <div className="stat-number">4+</div>
                 <div className="stat-label">Years Experience</div>
               </div>
               <div className="stat">
                 <div className="stat-number">12</div>
                 <div className="stat-label">Locations</div>
               </div>
-            </div>
+            </div> */}
           </motion.div>
           <motion.div
             className="about-content"
